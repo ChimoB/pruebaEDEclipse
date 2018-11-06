@@ -1,0 +1,6 @@
+/**
+ * @author JLopez
+ *
+ */
+module ProyectoEclipse {
+}
